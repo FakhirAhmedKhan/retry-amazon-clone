@@ -1,3 +1,5 @@
+import {cart } from '../data/cart.js'
+
 // alert("kk")
 let productsHTML = '';
 
