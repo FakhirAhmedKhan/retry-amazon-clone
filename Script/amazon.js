@@ -4,8 +4,6 @@ import { products } from '../data/products.js'
 // alert("kk")
 let productsHTML = '';
 
-
-
 function updateCartQuantity() {
     let cartQuantity = 0;
 
